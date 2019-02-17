@@ -23,7 +23,6 @@ define Package/lora-gateway-tests
   CATEGORY:=Network
   SUBMENU:=LoRaWAN
   TITLE:=Test programs for lora gateway
-  DEPENDS:=+librt
 endef
 
 define Package/lora-gateway-utils
